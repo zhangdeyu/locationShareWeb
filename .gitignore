@@ -1,0 +1,25 @@
+target
+logs
+
+# idea
+.idea
+*.iml
+*.ipr
+*.iws
+
+.imdone
+.DS_Store
+*log
+*.gz
+
+# OS X
+.DS_Store
+
+# log
+*.log
+log.*
+log
+**/build/*
+**/dist/*
+**/node_modules/*
+.tmp
